@@ -15,8 +15,8 @@ I'm a man. But I put in a picture of my girlfriend. สวัสดีผมเ�
 <a href="https://www.github.com/KhunChaiyakorn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KhunChaiyakorn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/KhunChaiyakorn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/KhunChaiyakorn?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+/></a><a href="https://www.twitch.tv/directory" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/directory?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills : ⬎
 
